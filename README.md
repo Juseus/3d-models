@@ -20,6 +20,12 @@ Author: [Juseus](https://github.com/Juseus)
 Source: [Github](https://github.com/Juseus/3d-models/blob/main/e36/8hp_shifter_adapter_post-2012_without_holes.stl)  
 License: CC BY-NC-SA 4.0
 
+File: [e36/8hp_shifter_adapter_post-2012_without_holes_SLSoptimized.stl](e36/8hp_shifter_adapter_post-2012_without_holes_SLSoptimized.stl)  
+Author: [pazi88](https://github.com/pazi88)  
+Source: [Github](https://github.com/pazi88/3d-models/blob/main/e36/8hp_shifter_adapter_post-2012_without_holes_SLSoptimized.stl)  
+License: CC BY-NC-SA 4.0  
+Based on: [Github](https://github.com/Juseus/3d-models/blob/main/e36/8hp_shifter_adapter_post-2012_without_holes.stl)
+
 # License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]

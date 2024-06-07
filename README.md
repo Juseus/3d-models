@@ -1,3 +1,17 @@
+# Attributions
+
+File: [e36/8hp_shifter_adapter_pre-2012_with_holes.stl](e36/8hp_shifter_adapter_pre-2012_with_holes.stl)  
+Author: [Juseus](https://github.com/Juseus)  
+Source: [Github](https://github.com/Juseus/3d-models/blob/main/e36/8hp_shifter_adapter_pre-2012_with_holes.stl)  
+License: CC BY-NC-SA 4.0
+
+File: [e36/8hp_shifter_adapter_pre-2012_without_holes.stl](e36/8hp_shifter_adapter_pre-2012_without_holes.stl)  
+Author: [Juseus](https://github.com/Juseus)  
+Source: [Github](https://github.com/Juseus/3d-models/blob/main/e36/8hp_shifter_adapter_pre-2012_without_holes.stl)  
+License: CC BY-NC-SA 4.0
+
+# License
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
